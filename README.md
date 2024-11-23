@@ -1,5 +1,6 @@
 
 # AirLine AI Assistant
+![airlineaiassistant](https://github.com/user-attachments/assets/46bfed58-b175-44f1-93ec-6daa00ddc0b8)
 
 A complete Airline ai assistant that will assistant the passenger by providing infomation regarding travel places, their cost and will generate the image of the place as well.
 ## Environment Variables
